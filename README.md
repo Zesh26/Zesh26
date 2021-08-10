@@ -1,16 +1,14 @@
-### Hi there 👋
+### Freelance Programmer
+I've been programming for a few years in a mix of VB6 and C++.
 
-<!--
-**Zesh26/Zesh26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have strong experience with networking, turn-based battle systems and tile-based games.
 
-Here are some ideas to get you started:
+I can design and implement various systems and assist in writing the technical aspects of design documents.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills: C++ / VB6 / GODOT / NETWORKING
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
