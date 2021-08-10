@@ -10,5 +10,5 @@ I can design and implement various systems and assist in writing the technical a
 - An implementation of Pokemon FireRed's battle system in Godot:
 ![](Battle.gif)
 
-- A fan-made multiplayer Pokemon game:
+- A multiplayer Pokemon game in a custom engine:
 ![](https://cdn.discordapp.com/attachments/165576578963734529/335590758713262091/screenshot.png)
