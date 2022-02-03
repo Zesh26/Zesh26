@@ -11,4 +11,5 @@ I can design and implement various systems and write technical design documents.
 ![](Battle.gif)
 
 - A multiplayer Pokemon game in a custom engine:
-![](https://cdn.discordapp.com/attachments/165576578963734529/335590758713262091/screenshot.png)
+![](Battle.png)
+![](Ingame.PNG)
