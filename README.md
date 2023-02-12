@@ -13,6 +13,5 @@ Freelance Programmer / June 2022 - February 2023
 - An implementation of Pokemon FireRed's battle system in Godot:
 ![](Battle.gif)
 
-- A multiplayer Pokemon game in a custom engine:
-![](Battle.png)
+- A multiplayer Pokemon game in a custom engine: ![In Battle](Battle.png)
 ![](Editor.png)
