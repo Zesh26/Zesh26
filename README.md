@@ -7,7 +7,7 @@ I have strong experience with networking, turn-based battle systems and tile-bas
 I can design and implement various systems and write technical design documents.
 
 #### Work Experience
-Freelance Programmer / June 2022-February 2023
+Freelance Programmer / June 2022 - February 2023
 
 #### Personal Projects
 - An implementation of Pokemon FireRed's battle system in Godot:
@@ -15,5 +15,4 @@ Freelance Programmer / June 2022-February 2023
 
 - A multiplayer Pokemon game in a custom engine:
 ![](Battle.png)
-![](Ingame.PNG)
 ![](Editor.png)
