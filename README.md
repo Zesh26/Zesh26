@@ -8,10 +8,12 @@ I can design and implement various systems and write technical design documents.
 Game Developer / June 2022 - February 2023
 
 Knucklehead Studios
-- Experience with Godot 3+
+- Experience with Godot 3
 - Experience with networking and implementing server-side logic
 - Experience with creating client-side UI
 - Experience with bug fixing and making quality of life improvements based on player feedback
+- Examples of work: [Collection Log](Collection Log.gif), [Donation](Donation.gif), [Inventory](Inventory.gif)
+[](Lobby.gif)
 
 #### Personal Projects
 - An implementation of Pokemon FireRed's battle system in Godot: [GIF](Battle.gif)
