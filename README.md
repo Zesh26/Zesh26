@@ -12,7 +12,7 @@ Knucklehead Studios
 - Experience with networking and implementing server-side logic
 - Experience with creating client-side UI
 - Experience with bug fixing and making quality of life improvements based on player feedback
-- Examples of work: [Collection Log](Collection%20Log.gif), [Donation](Donation.gif), [Inventory](Inventory.gif)
+- Examples of work: [Collection Log](Collection%20Log.gif), [Donation](Donation.gif), [Inventory](Inventory.gif), [Lobby](Lobby.gif)
 ![](Lobby.gif)
 
 #### Personal Projects
