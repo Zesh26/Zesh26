@@ -6,6 +6,7 @@ I can design and implement various systems and write technical design documents.
 
 #### Work Experience
 Game Developer / June 2022 - February 2023
+
 Knucklehead Studios
 - Experience with networking and implementing server-side logic
 - Experience with creating client-side UI
