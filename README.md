@@ -14,5 +14,4 @@ Knucklehead Studios
 
 #### Personal Projects
 - An implementation of Pokemon FireRed's battle system in Godot: [GIF](Battle.gif)
-
 - A multiplayer Pokemon game in a custom engine: [In Battle](Battle.png), [In Game](Ingame.PNG), [Editor](Editor.png)
