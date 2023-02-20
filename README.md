@@ -1,7 +1,6 @@
 ### Game Developer
 #### Skills: GODOT / NETWORKING / C++ / VB6
 I have strong experience with networking, turn-based battle systems and tile-based games.
-
 I can design and implement various systems and write technical design documents.
 
 #### Work Experience
