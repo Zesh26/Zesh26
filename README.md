@@ -1,11 +1,15 @@
-### Freelance Programmer
+### Game Developer
 #### Skills: GODOT / NETWORKING / C++ / VB6
 I have strong experience with networking, turn-based battle systems and tile-based games.
 
 I can design and implement various systems and write technical design documents.
 
 #### Work Experience
-Freelance Programmer / June 2022 - February 2023
+Game Developer / June 2022 - February 2023
+Knucklehead Studios
+- Experience with networking and implementing server-side logic
+- Experience with creating client-side UI
+- Experience with bug fixing and making quality of life improvements based on player feedback
 
 #### Personal Projects
 - An implementation of Pokemon FireRed's battle system in Godot:
