@@ -5,12 +5,13 @@ I have strong experience with networking, turn-based battle systems and tile-bas
 I can design and implement various systems and write technical design documents.
 
 #### Work Experience
-Freelance Developer / September 2023 - January 2024
+Freelance Developer / September 2023 - June 2024
 
 Various clients
 - Experience with Godot 4
 - Experience with 3D game development
 - Experience with creating a card game
+- Experience with creating a rougelike
 - Experience with networking and implementing server authenticated movement
 
 Game Developer / June 2022 - February 2023
