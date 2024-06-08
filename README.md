@@ -11,7 +11,7 @@ Various clients
 - Experience with Godot 4
 - Experience with 3D game development
 - Experience with creating a card game
-- Experience with creating a rougelike
+- Experience with creating a roguelike
 - Experience with networking and implementing server authenticated movement
 
 Game Developer / June 2022 - February 2023
